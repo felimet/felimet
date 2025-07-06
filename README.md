@@ -1,5 +1,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=blur&height=150&color=D97757&text=JM%20Code%20Hub&fontAlign=50&section=header&reversal=false&textBg=false&descAlign=50&desc=Research%20|%20Technology%20|%20Development%20|%20Learning%20|%20Guidelines&descAlignY=76&fontColor=ffffff&fontSize=45&animation=fadeIn&rotate=0&descSize=15" />
+
+  ![Profile Views](https://api.visitorbadge.io/api/visitors?path=felimet&label=Profile%20Views&countColor=%2337d67a&style=flat)
+  [![GitHub Organization](https://img.shields.io/github/followers/felimet?style=flat&label=Followers&color=blue)](https://github.com/felimet)
 </div>
 
 ## Github Stats
@@ -19,13 +22,6 @@
 
 ---
 
-<div align="center">
-  
-  ![felimet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=felimet&bg_color=1a1b27&color=a39999&line=fb7941&point=f0e1c6&area=true&hide_border=true)
-</div>
-
----
-
 ## 🏅 GitHub 成就
 
 <div align="center">
@@ -34,14 +30,6 @@
 
 </div>
 
----
 
-<div align="center">
-
-![訪客計數](https://profile-counter.glitch.me/felimet/count.svg)
-
-**⭐ 感謝您的造訪！歡迎瀏覽我的儲存庫，並聯繫我進行研究合作。**
-
-</div>
 
 
