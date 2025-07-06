@@ -1,16 +1,18 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=D97757&text=JM%20Code%20Hub&fontAlign=50&section=header&reversal=false&textBg=false&descAlign=50&desc=Research%20|%20Technology%20|%20Development%20|%20Learning%20|%20Guidelines&descAlignY=76&fontColor=ffffff&fontSize=45&animation=fadeIn&rotate=0&descSize=15" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=150&color=D97757&text=JM%20Code%20Hub&fontAlign=50&section=header&reversal=false&textBg=false&descAlign=50&desc=Research%20|%20Technology%20|%20Development%20|%20Learning%20|%20Guidelines&descAlignY=76&fontColor=ffffff&fontSize=45&animation=fadeIn&rotate=0&descSize=15" />
 </div>
 
 ## Github Stats
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=felimet&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&card_width=400&count_private=true" 
+  <img src="https://github-readme-stats.vercel.app/api?username=felimet&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&card_width=450&count_private=true" 
        alt="GitHub statistics" 
        style="height: 170px; max-width: 100%;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felimet&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
        alt="Code language"
        style="height: 170px; max-width: 100%;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=felimet&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=400" 
+  
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=felimet&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=600" 
        alt="Stats"
        style="height: 170px; max-width: 100%;"/>
 </div>
