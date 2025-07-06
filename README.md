@@ -4,7 +4,7 @@
 
 ## Github Stats
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=felimet&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&card_width=450&count_private=true" 
+  <img src="https://github-readme-stats.vercel.app/api?username=felimet&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&card_width=470&count_private=true" 
        alt="GitHub statistics" 
        style="height: 170px; max-width: 100%;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felimet&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=450" 
@@ -12,7 +12,7 @@
        style="height: 170px; max-width: 100%;"/>
   
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=felimet&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=600" 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=felimet&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=470" 
        alt="Stats"
        style="height: 170px; max-width: 100%;"/>
 </div>
