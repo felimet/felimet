@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=blur&height=150&color=D97757&text=JM%20Code%20Hub&fontAlign=50&section=header&reversal=false&textBg=false&descAlign=50&desc=Research%20|%20Technology%20|%20Development%20|%20Learning%20|%20Guidelines&descAlignY=76&fontColor=ffffff&fontSize=45&animation=fadeIn&rotate=0&descSize=15" />
 
-  ![Profile Views](https://api.visitorbadge.io/api/visitors?path=felimet&label=Profile%20Views&countColor=%2337d67a&style=flat)
-  [![GitHub Organization](https://img.shields.io/github/followers/felimet?style=flat&label=Followers&color=blue)](https://github.com/felimet)
+  ![Profile Views](https://api.visitorbadge.io/api/visitors?path=felimet&label=profile%20Views&countColor=%2337d67a&style=flat)
+  [![GitHub Organization](https://img.shields.io/github/followers/felimet?style=flat&label=followers&color=blue)](https://github.com/felimet)
 </div>
 
 ## Github Stats
