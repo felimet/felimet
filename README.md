@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=felimet&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&card_width=450&count_private=true" 
        alt="GitHub statistics" 
        style="height: 170px; max-width: 100%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felimet&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felimet&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=450" 
        alt="Code language"
        style="height: 170px; max-width: 100%;"/>
   
