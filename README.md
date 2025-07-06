@@ -22,7 +22,7 @@
 
 ---
 
-## 🏅 GitHub 成就
+## Achievements
 
 <div align="center">
   
