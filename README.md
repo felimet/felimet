@@ -15,7 +15,7 @@
        style="height: 170px; max-width: 100%;"/>
   
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=felimet&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=470" 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=felimet&mode=weekly&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=470" 
        alt="Stats"
        style="height: 170px; max-width: 100%;"/>
 </div>
